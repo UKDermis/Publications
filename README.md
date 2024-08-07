@@ -1,2 +1,0 @@
-# Publications
-Published research materials.
